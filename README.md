@@ -2,7 +2,7 @@
 
 **Phiên bản Laravel 8**
 
-[![Uploading image.png…]()](https://github.com/QuangVakaru/bonsaistore.github.io/blob/master/Home.PNG)
+https://github.com/QuangVakaru/bonsaistore.github.io/blob/master/Home.PNG
 
 
 **I.Các chức năng cơ bản**
