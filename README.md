@@ -2,7 +2,7 @@
 
 **Phiên bản Laravel 8**
 
-![Uploading image.png…]()
+[![Uploading image.png…]()](https://github.com/QuangVakaru/bonsaistore.github.io/blob/master/Home.PNG)
 
 
 **I.Các chức năng cơ bản**
@@ -17,6 +17,7 @@ Chức năng:
 - Quản lý mã khuyến mãi: Hiển thị danh sách khuyến mãi, thêm, sửa khuyến mãi.
 - Quản lý đơn đặt hàng: Hiển thị danh sách đơn đặt hàng, hủy và thay đổi được trạng thái đơn đặt hàng. Đơn hàng bị hủy ngay khi khách hàng xác nhận hủy.
 - Quản lý tin tức: Hiển thị danh sách những tin tức, có thể thêm, sửa tin tức.
+- Đề xuất và Lọc sản phẩm theo giá.
 - Thời gian phản hồi: Tốc độ phản hồi không vượt quá 5 giây.
 
 **II.Hướng phát triển**
