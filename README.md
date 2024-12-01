@@ -2,7 +2,7 @@
 
 **Phiên bản Laravel 8**
 
-![screenshot]https://github.com/QuangVakaru/bonsaistore.github.io/blob/master/Home.PNG
+![screenshot](https://github.com/QuangVakaru/bonsaistore.github.io/blob/master/Home.PNG)
 
 
 **I.Các chức năng cơ bản**
